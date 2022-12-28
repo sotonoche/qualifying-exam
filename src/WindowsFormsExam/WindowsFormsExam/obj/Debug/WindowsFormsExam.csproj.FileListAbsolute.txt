@@ -1,0 +1,10 @@
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\bin\Debug\WindowsFormsExam.exe.config
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\bin\Debug\WindowsFormsExam.exe
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\bin\Debug\WindowsFormsExam.pdb
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.csprojResolveAssemblyReference.cache
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.Form1.resources
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.Properties.Resources.resources
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.csproj.GenerateResource.Cache
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.csproj.CoreCompileInputs.cache
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.exe
+C:\Users\stu-pksp120\Desktop\src\WindowsFormsExam\WindowsFormsExam\obj\Debug\WindowsFormsExam.pdb
